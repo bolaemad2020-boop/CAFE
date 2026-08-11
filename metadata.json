@@ -1,0 +1,6 @@
+{
+  "name": "BaristaPro ERP & POS",
+  "description": "Comprehensive café ERP & tablet POS with recipe-based inventory auto-deduction, customer loyalty points, staff roles, offline sync, real-time analytics, and CSV/Excel exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
